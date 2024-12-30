@@ -11,7 +11,7 @@
         {
             "name": "Balls?",
             "bundleIdentifier": "com.TDMbest.balls",
-            "developerName": "New_Ad_704",
+            "developerName": "TDMBest",
             "subtitle": "Balls? Port to iOS",
             "localizedDescription": "Do you like playing with balls? Of course you like balls. In this stupid game you can launch into other balls to obtain points. There's also bullet-time slowmotion stuff, so thats pretty cool lol",
             "iconURL": "https://raw.githubusercontent.com/notausername36000/notaniparepo/refs/heads/main/appIcons/img-2024-12-30-15-37-44.png",
@@ -38,16 +38,34 @@
             "developerName": "appdb",
             "subtitle": "A fully-featured iOS client for appdb.to written in Swift 5 (iOS 10+).",
             "localizedDescription": "A fully-featured iOS client for appdb.to written in Swift 5 (iOS 10+).",
-            "iconURL": "https://raw.githubusercontent.com/notausername36000/notaniparepo/refs/heads/main/appIcons/img-2024-12-30-15-37-44.png",
+            "iconURL": "https://user-images.githubusercontent.com/11541888/58876201-a370b100-86cd-11e9-962b-b46e823d1b54.png",
             "tintColor": "#60DF89",
             "screenshotURLs": [
             ],
             "versions": [
                 {
-                  "version": "1.0",
-                  "date": "2022-06-14",
-                  "localizedDescription": "idk what to put here lol",
-                  "downloadURL": "https://download1501.mediafire.com/bshswdt0wthgrS5qnLiJB0Aiyv6nl5IAaZ4EC9tcawdic3LkgIkdwVK1kCp2ukPJkV_IwvLE0A8g3RY46wnNHeMV3tCTKmrZ95Bsbd3GEtfHq_0WbCMwlwgDbFOAsTzchsUkN1z5K-HjTFKac5cLZHWehONxtlikhk8fJu0jcFU6sNM1/9av3stbvik6fqr2/Balls_-TDMbest.ipa",
+                  "version": "1.16",
+                  "date": "2023-07-14",
+                  "localizedDescription": "Update to latest appdb API version, fix bugs, replace old PLUS options",
+                  "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.6/appdb-v1.1.6-stev3fvcks.ipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                },
+                {
+                  "version": "1.15",
+                  "date": "2023-04-06",
+                  "localizedDescription": "Switch between available Free Enterprise Signing certificates",
+                  "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.5/appdb-v1.1.5-stev3fvcks.ipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                },
+                {
+                  "version": "1.14",
+                  "date": "2023-04-04",
+                  "localizedDescription": "Support for Free Enterprise Signing",
+                  "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.4/appdb_1.1.4.ipa",
                   "size": 17400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
