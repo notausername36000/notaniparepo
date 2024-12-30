@@ -31,7 +31,6 @@
               ],
             "appPermissions": {}
         },
-        s": [
         {
             "name": "AppDB",
             "bundleIdentifier": "it.ned.appdb-ios",
