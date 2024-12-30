@@ -50,24 +50,6 @@
                   "size": 17400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
-                },
-                {
-                  "version": "1.15",
-                  "date": "2023-04-06",
-                  "localizedDescription": "Switch between available Free Enterprise Signing certificates",
-                  "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.5/appdb-v1.1.5-stev3fvcks.ipa",
-                  "size": 17400000,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-                },
-                {
-                  "version": "1.14",
-                  "date": "2023-04-04",
-                  "localizedDescription": "Support for Free Enterprise Signing",
-                  "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.4/appdb_1.1.4.ipa",
-                  "size": 17400000,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
                 }
               ],
             "appPermissions": {}
