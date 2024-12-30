@@ -30,6 +30,30 @@
                 }
               ],
             "appPermissions": {}
+        },
+        s": [
+        {
+            "name": "AppDB",
+            "bundleIdentifier": "it.ned.appdb-ios",
+            "developerName": "appdb",
+            "subtitle": "A fully-featured iOS client for appdb.to written in Swift 5 (iOS 10+).",
+            "localizedDescription": "A fully-featured iOS client for appdb.to written in Swift 5 (iOS 10+).",
+            "iconURL": "https://raw.githubusercontent.com/notausername36000/notaniparepo/refs/heads/main/appIcons/img-2024-12-30-15-37-44.png",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "1.0",
+                  "date": "2022-06-14",
+                  "localizedDescription": "idk what to put here lol",
+                  "downloadURL": "https://download1501.mediafire.com/bshswdt0wthgrS5qnLiJB0Aiyv6nl5IAaZ4EC9tcawdic3LkgIkdwVK1kCp2ukPJkV_IwvLE0A8g3RY46wnNHeMV3tCTKmrZ95Bsbd3GEtfHq_0WbCMwlwgDbFOAsTzchsUkN1z5K-HjTFKac5cLZHWehONxtlikhk8fJu0jcFU6sNM1/9av3stbvik6fqr2/Balls_-TDMbest.ipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
         }
     ],
     "news": []
