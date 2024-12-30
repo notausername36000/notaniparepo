@@ -71,6 +71,29 @@
                 }
               ],
             "appPermissions": {}
+        },
+        {
+            "name": "Undertale Red & Yellow",
+            "bundleIdentifier": "com.utryios.undertalerednyellow",
+            "developerName": "PieJayYT",
+            "subtitle": "Undertale Red & Yellow Port to iOS",
+            "localizedDescription": "Basically Undertale Red & Yellow",
+            "iconURL": "https://raw.githubusercontent.com/notausername36000/notaniparepo/refs/heads/main/appIcons/CF9CFE9B-4283-46FF-AB28-B8DAFF4BA539.jpeg",
+            "tintColor": "#60DF89",
+            "screenshotURLs": [
+            ],
+            "versions": [
+                {
+                  "version": "1.0",
+                  "date": "2022-06-14",
+                  "localizedDescription": "idk what to put here lol",
+                  "downloadURL": "https://download1514.mediafire.com/utygfbkwg4aguaSYS_XsjnvQQgfxWgsaFPf7PrtmkObOa4ZkjwpCICs4K6ywLqoDLyT-mnk-nNEinrUxeDpbhKv3Iv8my32FvyP_EDwhwHE_K8v2Up0rl8bPMj76vmt3jD6WOL-OMg4nTzZvlpv5SCldJH02_hdtIzOqh7eZGNhA1cyN/7qwp3hlsmycujid/UNDERTALERnY.ipa",
+                  "size": 17400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
+              ],
+            "appPermissions": {}
         }
     ],
     "news": []
