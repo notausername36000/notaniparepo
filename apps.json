@@ -175,6 +175,37 @@
         }
       ],
       "appPermissions": {}
+    },
+    {
+      "name": "Stealing the Diamond",
+      "bundleIdentifier": "com.puffballsunited.stealingthediamond",
+      "developerName": "MarcusBromander",
+      "subtitle": "Yes, its StD ported to iOS",
+      "localizedDescription": "The Tunisian Diamond is on display in the museum, and it's quite expensive. There are three different ways you can get the diamond and many more ways to fail. You can win the Aggressive way, the Undetected way or the Epic way.\n\nSpecial thanks to ThumbsUpGuy, JonBro, and HomocidalToaster for programming help and beta testing!\n\nSorry about the filesize, but there's a lot packed in here. Let me know what you think! Leave a review and don't forget to vote!",
+      "iconURL": "https://raw.githubusercontent.com/notausername36000/notaniparepo/refs/heads/main/appIcons/StDicon.png",
+      "tintColor": "#c9c9c9",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "64bit",
+          "date": "2023-11-20",
+          "localizedDescription": "The 64 bit version of FtC",
+          "downloadURL": "https://archive.org/download/distractiondancemoment/Stealing%20the%20Diamond/StD%201.0.1%2064%20bit.ipa",
+          "size": 17400000,
+          "minOSVersion": "11.0",
+          "maxOSVersion": "22.0"
+        },
+        {
+          "version": "32bit",
+          "date": "2023-11-20",
+          "localizedDescription": "The 32 bit version of FtC",
+          "downloadURL": "https://archive.org/download/distractiondancemoment/Stealing%20the%20Diamond/StD%201.0.1%2032%20bit.ipa",
+          "size": 17400000,
+          "minOSVersion": "1.0",
+          "maxOSVersion": "10.0"
+        }
+      ],
+      "appPermissions": {}
     }
   ],
   "news": []
