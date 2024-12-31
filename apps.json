@@ -153,6 +153,28 @@
         }
       ],
       "appPermissions": {}
+    },
+    {
+      "name": "Infiltrating the Airship",
+      "bundleIdentifier": "com.puffballsunited.infiltratingtheairship",
+      "developerName": "MarcusBromander",
+      "subtitle": "Yes, its ItA ported to iOS",
+      "localizedDescription": "It's been a long time coming but here it is! Infiltrating the Airship!\n\nHenry's been captured by the government and can wipe away his debt by doing them a favor. The Toppat Clan, a group of international thieves, has been a thorn in their side for sometime. They're sending you in to bring them down.\n\nThere are four different endings as well as a whopping 60 unique fails to find! I realize the file is large and this would be why. Please bear with the load time, I hope you will find that it was worth it!",
+      "iconURL": "https://raw.githubusercontent.com/notausername36000/notaniparepo/refs/heads/main/appIcons/ItA.png",
+      "tintColor": "#79b0be",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "32bit",
+          "date": "2023-11-20",
+          "localizedDescription": "This version is only 32 bit for now, Sorry!",
+          "downloadURL": "https://archive.org/download/distractiondancemoment/Infiltrating%20the%20Airship/Airship%202iOs%201.0%2032%20bit.ipa",
+          "size": 17400000,
+          "minOSVersion": "1.0",
+          "maxOSVersion": "10.0"
+        }
+      ],
+      "appPermissions": {}
     }
   ],
   "news": []
