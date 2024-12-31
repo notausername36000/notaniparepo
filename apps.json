@@ -1,100 +1,128 @@
 {
-    "name": "Just A Repo",
-    "subtitle": "A repo",
-    "description": "I host apps that were ported to iOS",
-    "iconURL": "https://avatars.githubusercontent.com/u/193204932?v=4&size=64",
-    "headerURL": "https://avatars.githubusercontent.com/u/193204932?v=4&size=64",
-    "website": "https://github.com/notausername36000/notaniparepo/",
-    "tintColor": "#F54F32",
-    "featuredApps": [],
-    "apps": [
+  "name": "Just A Repo",
+  "subtitle": "A repo",
+  "description": "I host apps that were ported to iOS",
+  "iconURL": "https://avatars.githubusercontent.com/u/193204932?v=4&size=64",
+  "headerURL": "https://avatars.githubusercontent.com/u/193204932?v=4&size=64",
+  "website": "https://github.com/notausername36000/notaniparepo/",
+  "tintColor": "#F54F32",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Balls?",
+      "bundleIdentifier": "com.TDMbest.balls",
+      "developerName": "TDMBest",
+      "subtitle": "Balls? Port to iOS",
+      "localizedDescription": "Do you like playing with balls? Of course you like balls. In this stupid game you can launch into other balls to obtain points. There's also bullet-time slowmotion stuff, so thats pretty cool lol",
+      "iconURL": "https://raw.githubusercontent.com/notausername36000/notaniparepo/refs/heads/main/appIcons/img-2024-12-30-15-37-44.png",
+      "tintColor": "#5d70eb",
+      "screenshotURLs": [],
+      "versions": [
         {
-            "name": "Balls?",
-            "bundleIdentifier": "com.TDMbest.balls",
-            "developerName": "TDMBest",
-            "subtitle": "Balls? Port to iOS",
-            "localizedDescription": "Do you like playing with balls? Of course you like balls. In this stupid game you can launch into other balls to obtain points. There's also bullet-time slowmotion stuff, so thats pretty cool lol",
-            "iconURL": "https://raw.githubusercontent.com/notausername36000/notaniparepo/refs/heads/main/appIcons/img-2024-12-30-15-37-44.png",
-            "tintColor": "#60DF89",
-            "screenshotURLs": [
-            ],
-            "versions": [
-                {
-                  "version": "1.0",
-                  "date": "2022-06-14",
-                  "localizedDescription": "idk what to put here lol",
-                  "downloadURL": "https://download1501.mediafire.com/bshswdt0wthgrS5qnLiJB0Aiyv6nl5IAaZ4EC9tcawdic3LkgIkdwVK1kCp2ukPJkV_IwvLE0A8g3RY46wnNHeMV3tCTKmrZ95Bsbd3GEtfHq_0WbCMwlwgDbFOAsTzchsUkN1z5K-HjTFKac5cLZHWehONxtlikhk8fJu0jcFU6sNM1/9av3stbvik6fqr2/Balls_-TDMbest.ipa",
-                  "size": 17400000,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-                }
-              ],
-            "appPermissions": {}
-        },
-        {
-            "name": "AppDB",
-            "bundleIdentifier": "it.ned.appdb-ios",
-            "developerName": "appdb",
-            "subtitle": "A fully-featured iOS client for appdb.to written in Swift 5 (iOS 10+).",
-            "localizedDescription": "A fully-featured iOS client for appdb.to written in Swift 5 (iOS 10+).",
-            "iconURL": "https://user-images.githubusercontent.com/11541888/58876201-a370b100-86cd-11e9-962b-b46e823d1b54.png",
-            "tintColor": "#60DF89",
-            "screenshotURLs": [
-            ],
-            "versions": [
-                {
-                  "version": "1.16",
-                  "date": "2023-07-14",
-                  "localizedDescription": "Update to latest appdb API version, fix bugs, replace old PLUS options",
-                  "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.6/appdb-v1.1.6-stev3fvcks.ipa",
-                  "size": 17400000,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-                },
-                {
-                  "version": "1.15",
-                  "date": "2023-04-06",
-                  "localizedDescription": "Switch between available Free Enterprise Signing certificates",
-                  "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.5/appdb-v1.1.5-stev3fvcks.ipa",
-                  "size": 17400000,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-                },
-                {
-                  "version": "1.14",
-                  "date": "2023-04-04",
-                  "localizedDescription": "Support for Free Enterprise Signing",
-                  "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.4/appdb_1.1.4.ipa",
-                  "size": 17400000,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-                }
-              ],
-            "appPermissions": {}
-        },
-        {
-            "name": "Undertale Red & Yellow",
-            "bundleIdentifier": "com.utryios.undertalerednyellow",
-            "developerName": "PieJayYT",
-            "subtitle": "Undertale Red & Yellow Port to iOS",
-            "localizedDescription": "Basically Undertale Red & Yellow",
-            "iconURL": "https://raw.githubusercontent.com/notausername36000/notaniparepo/refs/heads/main/appIcons/CF9CFE9B-4283-46FF-AB28-B8DAFF4BA539.jpeg",
-            "tintColor": "#60DF89",
-            "screenshotURLs": [
-            ],
-            "versions": [
-                {
-                  "version": "1.0",
-                  "date": "2022-06-14",
-                  "localizedDescription": "idk what to put here lol",
-                  "downloadURL": "https://download1514.mediafire.com/utygfbkwg4aguaSYS_XsjnvQQgfxWgsaFPf7PrtmkObOa4ZkjwpCICs4K6ywLqoDLyT-mnk-nNEinrUxeDpbhKv3Iv8my32FvyP_EDwhwHE_K8v2Up0rl8bPMj76vmt3jD6WOL-OMg4nTzZvlpv5SCldJH02_hdtIzOqh7eZGNhA1cyN/7qwp3hlsmycujid/UNDERTALERnY.ipa",
-                  "size": 17400000,
-                  "minOSVersion": "14.0",
-                  "maxOSVersion": "17.0"
-                }
-              ],
-            "appPermissions": {}
+          "version": "1.0",
+          "date": "2022-06-14",
+          "localizedDescription": "idk what to put here lol",
+          "downloadURL": "https://download1501.mediafire.com/bshswdt0wthgrS5qnLiJB0Aiyv6nl5IAaZ4EC9tcawdic3LkgIkdwVK1kCp2ukPJkV_IwvLE0A8g3RY46wnNHeMV3tCTKmrZ95Bsbd3GEtfHq_0WbCMwlwgDbFOAsTzchsUkN1z5K-HjTFKac5cLZHWehONxtlikhk8fJu0jcFU6sNM1/9av3stbvik6fqr2/Balls_-TDMbest.ipa",
+          "size": 17400000,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
         }
-    ],
-    "news": []
-  }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "AppDB",
+      "bundleIdentifier": "it.ned.appdb-ios",
+      "developerName": "appdb",
+      "subtitle": "A fully-featured iOS client for appdb.to written in Swift 5 (iOS 10+).",
+      "localizedDescription": "A fully-featured iOS client for appdb.to written in Swift 5 (iOS 10+).",
+      "iconURL": "https://user-images.githubusercontent.com/11541888/58876201-a370b100-86cd-11e9-962b-b46e823d1b54.png",
+      "tintColor": "#60a9df",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.16",
+          "date": "2023-07-14",
+          "localizedDescription": "Update to latest appdb API version, fix bugs, replace old PLUS options",
+          "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.6/appdb-v1.1.6-stev3fvcks.ipa",
+          "size": 17400000,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        },
+        {
+          "version": "1.15",
+          "date": "2023-04-06",
+          "localizedDescription": "Switch between available Free Enterprise Signing certificates",
+          "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.5/appdb-v1.1.5-stev3fvcks.ipa",
+          "size": 17400000,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        },
+        {
+          "version": "1.14",
+          "date": "2023-04-04",
+          "localizedDescription": "Support for Free Enterprise Signing",
+          "downloadURL": "https://github.com/n3d1117/appdb/releases/download/v1.1.4/appdb_1.1.4.ipa",
+          "size": 17400000,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Undertale Red & Yellow",
+      "bundleIdentifier": "com.utryios.undertalerednyellow",
+      "developerName": "PieJayYT",
+      "subtitle": "Undertale Red & Yellow Port to iOS",
+      "localizedDescription": "Basically Undertale Red & Yellow",
+      "iconURL": "https://raw.githubusercontent.com/notausername36000/notaniparepo/refs/heads/main/appIcons/CF9CFE9B-4283-46FF-AB28-B8DAFF4BA539.jpeg",
+      "tintColor": "#000000",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2022-06-14",
+          "localizedDescription": "idk what to put here lol",
+          "downloadURL": "https://download1514.mediafire.com/utygfbkwg4aguaSYS_XsjnvQQgfxWgsaFPf7PrtmkObOa4ZkjwpCICs4K6ywLqoDLyT-mnk-nNEinrUxeDpbhKv3Iv8my32FvyP_EDwhwHE_K8v2Up0rl8bPMj76vmt3jD6WOL-OMg4nTzZvlpv5SCldJH02_hdtIzOqh7eZGNhA1cyN/7qwp3hlsmycujid/UNDERTALERnY.ipa",
+          "size": 17400000,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {}
+    },
+    {
+      "name": "Escaping the Prison",
+      "bundleIdentifier": "com.puffballsunited.escapingtheprison",
+      "developerName": "MarcusBromander",
+      "subtitle": "Yes, its EtP ported to iOS",
+      "localizedDescription": "Escaping the Prison is a wildly unique adventure puzzle game in which you aim to escape from prison!",
+      "iconURL": "https://raw.githubusercontent.com/notausername36000/notaniparepo/refs/heads/main/appIcons/EtPicon.png",
+      "tintColor": "#545454",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "64bit",
+          "date": "2023-11-20",
+          "localizedDescription": "The 64 bit version of EtP",
+          "downloadURL": "https://download851.mediafire.com/wwm8bit4o69g0t8X0gOp8dUhyDRRyfWB-DtuQekcUta1OcVwwHEoGSk4DE4HNfkhcoK0CQfHyHzKBdni0icMWRgu2B0ZkO1k2ZzsMsbJP2ZVg32j_Lv8ILHiMHe2G_arW2uXwgqxFAoDnkI-qEhgLYX6qPkogoLRzhfrjRnKJ0kyZprM/q75v38gml197ycf/EtP+1.0.1+64+bit.ipa",
+          "size": 17400000,
+          "minOSVersion": "11.0",
+          "maxOSVersion": "22.0"
+        },
+        {
+          "version": "32bit",
+          "date": "2023-11-20",
+          "localizedDescription": "The 32 bit version of EtP",
+          "downloadURL": "https://download851.mediafire.com/wwm8bit4o69g0t8X0gOp8dUhyDRRyfWB-DtuQekcUta1OcVwwHEoGSk4DE4HNfkhcoK0CQfHyHzKBdni0icMWRgu2B0ZkO1k2ZzsMsbJP2ZVg32j_Lv8ILHiMHe2G_arW2uXwgqxFAoDnkI-qEhgLYX6qPkogoLRzhfrjRnKJ0kyZprM/q75v38gml197ycf/EtP+1.0.1+64+bit.ipa",
+          "size": 17400000,
+          "minOSVersion": "1.0",
+          "maxOSVersion": "10.0"
+        }
+      ],
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
